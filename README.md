@@ -1,5 +1,14 @@
 # 🎓 UQVERSE  
  *You can access the live demo here:** [UQVERSE](https://create.viverse.com/LwLQdUZ)
+ ⚠️ **Note:**  
+> This project was built using **PlayCanvas**. You will not see any active pull requests or commits here because the main development happens inside the PlayCanvas editor.  
+>  
+> To try the project:  
+> 1. Go to the **[Releases](../../releases)** section of this repository.  
+> 2. Download the latest ZIP file.  
+> 3. Follow the included instructions to open the project in PlayCanvas. 
+
+ 
 
 UQVERSE is a **3D open-world inspired learning platform**, built with **PlayCanvas** and **VIVERSE**, where students can:  
 - Attend **lectures** in a virtual world  
